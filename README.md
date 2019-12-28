@@ -10,5 +10,9 @@
     - スタッフが増えるたびに説明する労力を減らすため
 
 ## 作成物の一覧
+- 勉強会の計画
+    - https://github.com/HayaUp/study-group/blob/master/planning.md
 - イベントページのテンプレート
     - https://github.com/HayaUp/study-group/blob/master/event-page-template.md
+- 大切なこと
+    - https://github.com/HayaUp/study-group/blob/master/important.md
